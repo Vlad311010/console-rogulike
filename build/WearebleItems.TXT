@@ -1,0 +1,10 @@
+Id, Name, Image, Color, Type, Level, Damage, Armor, Description, Str=0, Cons=0
+1,rusty dagger,/,5,LeftHand;RightHand,1,1,0,Old rusty dagger,0,0 
+2,iron sword,/,5,LeftHand;RightHand,1,2,0,Iron sword,0,0
+3,great sword,/,5,TwoHanded,1,4,0,Two-handed sword,0,0
+4,curved sword,/,5,LeftHand;RightHand,1,2,0,Curved sword,0,0 
+5,leather armor,[,3,Body,1,0,1,leather armor,0,0 
+6,barbarian cloak,[,3,Body,1,0,1,barbarian cloak,1,0
+7,plate armor,[,3,Body,1,0,2,Plate armor,0,0
+8,amulet of health,},3,Neck,1,0,0,Golden amulet,0,2
+9,ring of strength,),3,LeftRing;RightRing,1,0,0,Red ring,1,1
